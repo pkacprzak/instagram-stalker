@@ -1,6 +1,8 @@
 Instagram Stalker
 =======================
 
+[![PyPI](https://img.shields.io/pypi/v/instagram-stalker.svg)](https://pypi.python.org/pypi/instagram-stalker)
+
 instagram-stalker is a command-line application written in Python and targeted to OSX users. 
 It observes given Instagram account and notifies with system notifications when he makes his account public. 
 
