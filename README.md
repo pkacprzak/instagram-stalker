@@ -4,7 +4,7 @@ Instagram Stalker
 instagram-stalker is a command-line application written in Python and targeted to OSX users. 
 It observes given Instagram account and notifies with system notifications when he makes his account public. 
 
-The project was motivated by my Quora answer to [What are programs everyone learning Python should make?](https://www.quora.com/What-are-programs-everyone-learning-Python-should-make/answer/Pawel-Kacprzak).
+The project was motivated by my Quora answer to [What are programs everyone learning Python should make?](https://www.quora.com/What-are-programs-everyone-learning-Python-should-make/answer/Pawel-Kacprzak)
 
 Use responsibly.
 
