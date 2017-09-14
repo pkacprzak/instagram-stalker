@@ -1,0 +1,1 @@
+from instagram_stalker.app import InstagramStalker
