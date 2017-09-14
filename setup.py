@@ -5,7 +5,7 @@ requires = [
     'pync>=1.6.1',
 ]
 setup(name='instagram-stalker',
-      version='0.1.2',
+      version='0.2.0',
       description="Observes given instagram account and notify when he makes his account public.",
       url='http://github.com/pkacprzak/instagram-stalker',
       author='Pawel Kacprzak',
