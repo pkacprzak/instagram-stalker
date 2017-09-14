@@ -31,11 +31,11 @@ OPTIONS
 ```
 --help -h           Show help message and exit.
 
---interval  -i      Frequency of refreshing the status in minutes.
+--interval -i       Frequency of refreshing the status in minutes.
 
--sound  -s    Play sounds while notifying.
+--sound -s          Play sounds while notifying.
 
---verbose    -v     Prints console info when the status is still private
+--verbose -v        Prints console info when the status is still private
 
 ```
 
